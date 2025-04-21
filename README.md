@@ -16,7 +16,7 @@ Hệ thống quản lý dịch vụ chăm sóc khách hàng cho cửa hàng đi�
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/crm-system.git
+https://github.com/toiten123/WebQLCSKH.git
 
 # Di chuyển vào thư mục dự án
 cd crm-system
