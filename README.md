@@ -18,8 +18,17 @@ Hệ thống quản lý dịch vụ chăm sóc khách hàng cho cửa hàng đi�
 # Clone repository
 https://github.com/toiten123/WebQLCSKH.git
 
+#Chạy sql
+khởi chạy sql trong file tên SQL-CRM.sql
+
+#Chọn vào thư mục backend
+cd backend
+
+#run backend
+dotnet watch run
+
 # Di chuyển vào thư mục dự án
-cd crm-system
+cd frontend
 
 # Cài đặt dependencies
 npm install
